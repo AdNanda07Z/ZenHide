@@ -1,6 +1,6 @@
 # ZenHide
 
-ZenHide automatically hides your mouse cursor and desktop icons when you're idle, or on a hotkey. Your wallpaper gets the stage, and the cursor stays out of the way while you game.
+ZenHide automatically hides your mouse cursor and desktop icons when you’re idle, or on a hotkey. Show off your wallpaper when you step away, or keep the cursor out of the way while you play.
 
 <p align="center">
   <a href="https://youtu.be/eUiiTkVZzLQ">
